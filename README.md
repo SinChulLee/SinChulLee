@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:,100:&height=120&text=SinChul's%20Tech%20Repositories&animation=twinkling&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Data Analysis</li><li> Data Science를 향한 기술 공부를 합니다! </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Data Analysis </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> PlayData Data_Analysis_Track_33 </li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
