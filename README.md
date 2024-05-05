@@ -23,21 +23,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
   [![Tistory Badge](https://img.shields.io/badge/tistory-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://lsc99.tistory.com/)](https://lsc99.tistory.com/)
 
 
-🏅 Algorithm Gold Level. 
+🏅 Algorithm Bronze Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltlscjf11)](https://solved.ac/dltlscjf11/)  
-Programmers - Lv3  
-Samsung SW *Pro Level*
-
-
-🏆 Awards
-|Competition|Prize|Date|
-|------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
-
-
-
-
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
-Please understand.
