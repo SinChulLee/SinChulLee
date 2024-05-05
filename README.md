@@ -1,8 +1,7 @@
 ### Hi Welcome, i'm SinChul Lee 👋
 
 #### AI Developer / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+현재 공부중인 예비 AI 개발자입니다.
 
 
 🛠️ Stacks
