@@ -1,7 +1,7 @@
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Data Analysis </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, i'm SinChul Lee </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> PlayData Data_Analysis_Track_33 </li> </div> 
     </div>
     <div style="text-align: left;">
