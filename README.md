@@ -24,6 +24,6 @@
   [![Tistory Badge](https://img.shields.io/badge/tistory-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://lsc99.tistory.com/)](https://lsc99.tistory.com/)
 
 
-🏅 Algorithm Bronze Level. 
+🏅 Algorithm Bronze Level(Baekjoon Algorithm). 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltlscjf11)](https://solved.ac/dltlscjf11/)  
