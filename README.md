@@ -1,7 +1,7 @@
 ### Hi Welcome, i'm SinChul Lee 👋
 
 #### AI Developer / Data Engineering
-현재 공부중인 예비 AI 개발자입니다.
+주니어 AI 개발자입니다.
 
 
 🛠️ Stacks
