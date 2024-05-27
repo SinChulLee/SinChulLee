@@ -1,7 +1,7 @@
 ### Hi Welcome, i'm SinChul Lee 👋
 
 #### Machine Vision Developer / Data Engineering
-CNN, etc AI Image Network Model reading
+Learn CNN and other AI network models
 
 
 🛠️ Stacks
