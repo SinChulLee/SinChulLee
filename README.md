@@ -1,7 +1,7 @@
 ### Hi Welcome, i'm SinChul Lee 👋
 
-#### AI Developer / Data Engineering
-주니어 AI 개발자입니다.
+#### Machine Vision Developer / Data Engineering
+CNN, etc AI Image Network Model reading
 
 
 🛠️ Stacks
