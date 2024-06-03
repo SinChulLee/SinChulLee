@@ -12,8 +12,6 @@ Learn CNN and other AI network models
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinChulLee)](https://github.com/anuraghazra/github-readme-stats)
-
 👇 Notion portfoilo
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://comfortable-carnation-df7.notion.site/f585b4cfa9bd4c20ad9627f1511ce307?pvs=4)](https://comfortable-carnation-df7.notion.site/f585b4cfa9bd4c20ad9627f1511ce307?pvs=4)
