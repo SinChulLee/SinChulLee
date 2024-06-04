@@ -5,9 +5,8 @@ Learn CNN and other AI network models
 
 👇 About Me
 
-![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://comfortable-carnation-df7.notion.site/5060b74125974298ad186c0bc51e3eb0?pvs=4)](https://comfortable-carnation-df7.notion.site/5060b74125974298ad186c0bc51e3eb0?pvs=4)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltlscjf11@gmail.com)](mailto:dltlscjf11@gmail.com)
-  [![Tistory Badge](https://img.shields.io/badge/tistory-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://lsc99.tistory.com/)](https://lsc99.tistory.com/)
+![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://comfortable-carnation-df7.notion.site/5060b74125974298ad186c0bc51e3eb0?pvs=4)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dltlscjf11@gmail.com)
 
 
 🏅 Algorithm Silver Level(Baekjoon Algorithm) 
