@@ -3,7 +3,7 @@
 #### Machine Vision Developer / Data Engineering
 Learn CNN and other AI network models
 
-👇 About Me(Notion portfoilo)
+👇 About Me
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://comfortable-carnation-df7.notion.site/f585b4cfa9bd4c20ad9627f1511ce307?pvs=4)](https://comfortable-carnation-df7.notion.site/f585b4cfa9bd4c20ad9627f1511ce307?pvs=4)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltlscjf11@gmail.com)](mailto:dltlscjf11@gmail.com)
