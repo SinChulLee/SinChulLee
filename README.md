@@ -1,7 +1,7 @@
 ### Hi Welcome, i'm SinChul Lee 👋
 
-#### Machine Vision Developer / Data Engineering
-Learn CNN and other AI network models & image processing techniques using OpenCV.
+#### Image Processing Developer
+Machine Vision & Computer Vision
 
 👇 About Me
 
