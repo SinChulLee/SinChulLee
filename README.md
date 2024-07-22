@@ -9,7 +9,7 @@
 ```
 2024.07 ~
 ELP [검사계측, 영상처리 개발자]
-|-- Lab. [R&D center]
+|-- Lab. R&D center
 |-- Group. Future technology center
 |-- Team. Vision
 ```
