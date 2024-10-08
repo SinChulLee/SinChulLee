@@ -7,7 +7,7 @@
 <summary><b>:cloud: Career</b></summary>
 
 ```
-2024.07 ~
+2024.07 ~ 2024.10
 ELP [검사계측, 영상처리 개발자]
 |-- Lab. R&D center
 |-- Group. Future technology center
