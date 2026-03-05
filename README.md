@@ -13,5 +13,9 @@ ELP [검사계측, 영상처리 개발자]
 |-- Group. Future technology center
 |-- Team. Vision
 ```
+2024.11 ~
+UNITECH [.NET 개발자]
+|-- Lab. Air Control System Research Institute
+
 
 </details>
